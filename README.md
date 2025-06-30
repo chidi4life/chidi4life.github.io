@@ -10,7 +10,7 @@ Welcome to my personal website!
 
 I’m **Chidiebere Okereke**, a dedicated Administrative Assistant who supports entrepreneurs, nonprofit leaders, and professionals with reliable, efficient virtual assistance.
 
-- I wmanaged the cross functional priorities to reduce business bottleneck and drives smoother execution across teams
+- I managed the cross functional priorities to reduce business bottleneck and drives smoother execution across teams
 - I ensure seamless travel that reduces decision fatigue and keep the executive 100% focus on key deals
 - I run the backbone of the executive operations that keeps the company engine running smoothly behind the scene.
 - I partner with my executive to drive operational clarity and scale decision making across the businesses.
