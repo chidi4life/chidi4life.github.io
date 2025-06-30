@@ -4,17 +4,22 @@ Welcome to my personal website!
 
  I'm *Chidiebere Okereke*, a professional Administrative assistant. This website is built using GitHub Pages and showcases my skills, services, and contact information.
 
-##  About Me
+ <p>I’m Chidiebere Okereke, a dedicated and detail-oriented Administrative Assistant with a strong background in supporting busy entrepreneurs, CEOs, and nonprofit leaders. With a passion for organization and communication, I thrive on helping professionals manage their schedules, streamline operations, and maintain clear and timely communication with clients and teams.</p>
 
-I’m a reliable and organized virtual assistant who specializes in:
+<p>From calendar and inbox management to Canva design and project coordination, I bring calm, clarity, and consistency to every task I handle. Whether you're running a growing business or leading a mission-driven organization, I’m here to help you stay focused on what matters most.</p>
 
-- Email & calendar management  
-- Zoom & meeting coordination  
-- Canva design for flyers and posts  
-- Project & task tracking (Trello, ClickUp)  
-- Online research & client communication
-- Research and lead generation (Apollo.io, bing)
-- Social media support 
+ Little About Me
+
+I’m **Chidiebere Okereke**, a dedicated Administrative Assistant who supports entrepreneurs, nonprofit leaders, and professionals with reliable, efficient virtual assistance.
+
+- I managed the cross functional priorities to reduce business bottleneck and drives smoother execution across teams
+- I ensure seamless travel that reduces decision fatigue and keep the executive 100% focus on key deals
+- I run the backbone of the executive operations that keeps the company engine running smoothly behind the scene.
+- I partner with my executive to drive operational clarity and scale decision making across the businesses.
+
+Whether it’s organizing your day, preparing your online content, or communicating with clients on your behalf — I do it with clarity, confidence, and professionalism.
+
+ 
 
   Contact
 
@@ -31,15 +36,3 @@ Based in Nigeria | 💬 Available for remote work globally
 
 This project is maintained by [Chidiebere Okereke](https://www.linkedin.com/in/chidiebere-okereke-685b69323?utm).
 
-Little About Me
-
-I’m **Chidiebere Okereke**, a dedicated Administrative Assistant who supports entrepreneurs, nonprofit leaders, and professionals with reliable, efficient virtual assistance.
-
-- I managed the cross functional priorities to reduce business bottleneck and drives smoother execution across teams
-- I ensure seamless travel that reduces decision fatigue and keep the executive 100% focus on key deals
-- I run the backbone of the executive operations that keeps the company engine running smoothly behind the scene.
-- I partner with my executive to drive operational clarity and scale decision making across the businesses.
-
-Whether it’s organizing your day, preparing your online content, or communicating with clients on your behalf — I do it with clarity, confidence, and professionalism.
-
- 
