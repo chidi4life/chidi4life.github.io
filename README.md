@@ -34,3 +34,14 @@ Based in Nigeria | 💬 Available for remote work globally
 
 This project is maintained by [Chidiebere Okereke](https://www.linkedin.com/in/chidiebere-okereke-685b69323?utm).
 
+
+<h2>My Services</h2>
+<ul>
+  <li><strong>Inbox & Calendar Management:</strong> Organizing schedules, setting reminders, and ensuring important emails are followed up promptly.</li>
+  <li><strong>Client Communication:</strong> Responding to inquiries, following up on tasks, and maintaining professionalism in every message.</li>
+  <li><strong>Canva Design Support:</strong> Creating simple, clean flyers, social media graphics, presentations, and branded templates.</li>
+  <li><strong>Document & Spreadsheet Organization:</strong> Editing reports, managing shared documents, and keeping data updated and accessible.</li>
+  <li><strong>Online Research:</strong> Finding accurate information, competitor analysis, and generating leads or contact details.</li>
+  <li><strong>Project & Task Tracking:</strong> Using Trello, ClickUp, or Google Sheets to monitor progress and keep things on schedule.</li>
+</ul>
+
