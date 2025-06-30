@@ -2,11 +2,9 @@
 
 Welcome to my personal website!
 
- I'm *Chidiebere Okereke*, a professional Administrative assistant. This website is built using GitHub Pages and showcases my skills, services, and contact information.
-
  <p>I’m Chidiebere Okereke, a dedicated and detail-oriented Administrative Assistant with a strong background in supporting busy entrepreneurs, CEOs, and nonprofit leaders. With a passion for organization and communication, I thrive on helping professionals manage their schedules, streamline operations, and maintain clear and timely communication with clients and teams.</p>
 
-<p>From calendar and inbox management to Canva design and project coordination, I bring calm, clarity, and consistency to every task I handle. Whether you're running a growing business or leading a mission-driven organization, I’m here to help you stay focused on what matters most.</p>
+<p>From calendar and inbox management to Canva design and project coordination, I bring calm, clarity, and consistency to every task I handle. Whether you're running a growing business or leading a mission-driven organization, I’m here to help you stay focused on what matters most.<
 
  Little About Me
 
