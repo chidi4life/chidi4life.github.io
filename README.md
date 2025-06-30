@@ -27,6 +27,10 @@ I’m a reliable and organized virtual assistant who specializes in:
  Visit: [https://chidi4life.github.io](https://chidi4life.github.io)
 
 ---
+Based in Nigeria | 💬 Available for remote work globally
+
+This project is maintained by [Chidiebere Okereke](https://www.linkedin.com/in/chidiebere-okereke-685b69323?utm).
+
 Little About Me
 
 I’m **Chidiebere Okereke**, a dedicated Administrative Assistant who supports entrepreneurs, nonprofit leaders, and professionals with reliable, efficient virtual assistance.
@@ -35,9 +39,7 @@ I’m **Chidiebere Okereke**, a dedicated Administrative Assistant who supports 
 - I ensure seamless travel that reduces decision fatigue and keep the executive 100% focus on key deals
 - I run the backbone of the executive operations that keeps the company engine running smoothly behind the scene.
 - I partner with my executive to drive operational clarity and scale decision making across the businesses.
-- 
+
 Whether it’s organizing your day, preparing your online content, or communicating with clients on your behalf — I do it with clarity, confidence, and professionalism.
 
- Based in Nigeria | 💬 Available for remote work globally
-
-This project is maintained by [Chidiebere Okereke](https://www.linkedin.com/in/chidiebere-okereke-685b69323?utm).
+ 
